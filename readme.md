@@ -2,6 +2,10 @@
 
 Hi there, I'm Pratap! 👋
 I'm a passionate full-stack web developer currently pursuing my journey in technology at Masai School. With a B.Tech degree in Electronics and Communication Engineering, I have developed a strong foundation in problem-solving and adaptability.
+
+![My Screenshot](./assets/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif)
+
+
 ## 🚀 About Me
 - 🌱 I’m currently learning the MERN stack along with SQL and Python.
 - 💼 I have experience in web development using HTML, CSS, and JavaScript.
