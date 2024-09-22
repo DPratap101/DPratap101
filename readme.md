@@ -13,7 +13,27 @@ I'm a passionate full-stack web developer currently pursuing my journey in techn
 - 🤝 I aim to contribute to open-source projects and learn from the developer community.
 
 ## 🔭 Expertise
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,nodejs,mongodb,mysql,git,github,firebase)](https://skillicons.dev)
+### **Languages**
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)  
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  
+[![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev)  
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)  
+
+### **Frameworks**
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)  
+
+### **Databases**
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)  
+[![SQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)  
+
+### **Tools**
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)  
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)  
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)  
+[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)  
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)  
+[![CodePen](https://skillicons.dev/icons?i=codepen)](https://skillicons.dev)  
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dpratapx)
