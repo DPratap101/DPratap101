@@ -15,7 +15,7 @@ I'm a passionate full-stack web developer currently pursuing my journey in techn
 ## 🔭 Expertise
 
 ### **Languages**
-[![My Skills](https://skillicons.dev/icons?i=js,html,CSS, pyhton,javascript)](https://skillicons.dev) 
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
 ### **Frameworks**
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) 
