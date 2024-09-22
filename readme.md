@@ -13,7 +13,7 @@ I'm a passionate full-stack web developer currently pursuing my journey in techn
 - 🤝 I aim to contribute to open-source projects and learn from the developer community.
 
 ## 🔭 Expertise
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,nodejs,mongodb,sql,git,github,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,nodejs,mongodb,mysql,git,github,firebase)](https://skillicons.dev)
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dpratapx)
