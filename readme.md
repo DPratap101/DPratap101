@@ -1,16 +1,16 @@
 # PRATAP KUMAR DALAI
 
 Hi there, I'm Pratap! 👋  
-I'm a passionate full-stack web developer currently pursuing my journey in technology at Masai School. With a B.Tech degree in Electronics and Communication Engineering, I have developed a strong foundation in problem-solving and adaptability.
+A passionate full-stack web developer currently pursuing a journey in technology at Masai School. With a B.Tech degree in Electronics and Communication Engineering, a strong foundation has been built in problem-solving and adaptability, along with a focus on developing skills in full-stack development.
 
 ![My Screenshot](./assets/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif)
 
 ## 🚀 About Me
-- 🌱 I’m currently diving deep into the **MERN stack** (MongoDB, Express.js, React, Node.js) while also learning **SQL** and **Python** to enhance my backend development skills.
-- 💼 I have hands-on experience in web development, focusing on creating responsive and user-friendly applications using **HTML5**, **CSS**, and **JavaScript**.
-- 📚 I enjoy solving complex problems and continually seek out new challenges to sharpen my coding skills.
-- 💡 I’m enthusiastic about collaborating on projects that involve **API development**, **database management**, and **user interface design**.
-- 🤝 I aim to contribute to open-source projects and learn from the developer community.
+- 🌱 Currently diving deep into the MERN stack (MongoDB, Express.js, React, Node.js) while learning SQL, Python, and TypeScript to enhance backend and frontend development skills.
+- 💼 Hands-on experience in web development, focusing on building responsive and user-friendly applications with HTML5, CSS, JavaScript, and TypeScript.
+- 📚 Passionate about solving complex problems and constantly seeking challenges to sharpen coding abilities.
+- 💡 Enthusiastic about collaborating on projects involving API development, database management, and UI design.
+- 🤝 Eager to contribute to open-source projects and learn from the developer community.
 
 ## 🔭 Expertise
 
