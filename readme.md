@@ -28,7 +28,6 @@ A passionate full-stack web developer currently pursuing a journey in technology
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dpratapx)
-- **GitHub**: [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DPratap101)
 - **Medium**: [![Medium](https://img.shields.io/badge/-Medium-00AB6C?style=flat&logo=medium&logoColor=white)](https://medium.com/@dpratap.360)
 - **Email**: [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dpratap.360@gmail.com)
 
