@@ -15,8 +15,8 @@ A passionate full-stack web developer currently pursuing a journey in technology
 
 ## 🔭 Expertise
 <div align="center">
-
-## **Languages**
+Full-stack developer skilled in JavaScript, Python, HTML, CSS, Node.js, Git, and Firebase tools.
+### **Languages**
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
