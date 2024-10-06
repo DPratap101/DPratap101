@@ -12,10 +12,9 @@ A passionate full-stack web developer currently pursuing a journey in technology
 - 💡 Enthusiastic about collaborating on projects involving API development, database management, and UI design.
 - 🤝 Eager to contribute to open-source projects and learn from the developer community.
 
-<div align="center">
 
 ## 🔭 Expertise
-
+<div align="center">
 ### **Languages**
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
