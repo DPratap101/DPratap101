@@ -16,60 +16,60 @@ A passionate full-stack web developer currently pursuing a journey in technology
 ## 🔭 Expertise
 
 ### <p align="center">Languages</p>
-<p align="center">
+<p align="center" style="line-height: 0;">
   <a href="https://skillicons.dev" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   </a>
   <a href="https://skillicons.dev" title="Python">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   </a>
   <a href="https://skillicons.dev" title="HTML5">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
   </a>
   <a href="https://skillicons.dev" title="CSS">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
   </a>
 </p>
 
 ### <p align="center">Frameworks</p>
-<p align="center">
+<p align="center" style="line-height: 0;">
   <a href="https://skillicons.dev" title="React">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
   </a>
   <a href="https://skillicons.dev" title="Node.js">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
   </a>
 </p>
 
 ### <p align="center">Databases</p>
-<p align="center">
+<p align="center" style="line-height: 0;">
   <a href="https://skillicons.dev" title="MongoDB">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
   </a>
   <a href="https://skillicons.dev" title="SQL">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" />
   </a>
 </p>
 
 ### <p align="center">Tools</p>
-<p align="center">
+<p align="center" style="line-height: 0;">
   <a href="https://skillicons.dev" title="Git">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   </a>
   <a href="https://skillicons.dev" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
   <a href="https://skillicons.dev" title="Firebase">
-    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
   </a>
   <a href="https://skillicons.dev" title="Postman">
-    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
   </a>
   <a href="https://skillicons.dev" title="VSCode">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
   </a>
   <a href="https://skillicons.dev" title="CodePen">
-    <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" />
   </a>
 </p>
 
