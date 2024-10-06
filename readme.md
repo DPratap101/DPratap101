@@ -15,67 +15,64 @@ A passionate full-stack web developer currently pursuing a journey in technology
 
 ## 🔭 Expertise
 
-### <div align="center">Languages</div>
+### <p align="center">Languages</p>
+<p align="center">
+  <a href="https://skillicons.dev" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  </a>
+  <a href="https://skillicons.dev" title="Python">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>
+  <a href="https://skillicons.dev" title="HTML5">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
+  </a>
+  <a href="https://skillicons.dev" title="CSS">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>
+</p>
 
-<div align="center">
-<a href="https://skillicons.dev" title="JavaScript">
-  [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-</a>
-<a href="https://skillicons.dev" title="Python">
-  [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-</a>
-<a href="https://skillicons.dev" title="HTML5">
-  [![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-</a>
-<a href="https://skillicons.dev" title="CSS">
-  [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-</a>
-</div>
+### <p align="center">Frameworks</p>
+<p align="center">
+  <a href="https://skillicons.dev" title="React">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  </a>
+  <a href="https://skillicons.dev" title="Node.js">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  </a>
+</p>
 
-### <div align="center">Frameworks</div>
+### <p align="center">Databases</p>
+<p align="center">
+  <a href="https://skillicons.dev" title="MongoDB">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+  </a>
+  <a href="https://skillicons.dev" title="SQL">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" />
+  </a>
+</p>
 
-<div align="center">
-<a href="https://skillicons.dev" title="React">
-  [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-</a>
-<a href="https://skillicons.dev" title="Node.js">
-  [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-</a>
-</div>
+### <p align="center">Tools</p>
+<p align="center">
+  <a href="https://skillicons.dev" title="Git">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
+  <a href="https://skillicons.dev" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://skillicons.dev" title="Firebase">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+  </a>
+  <a href="https://skillicons.dev" title="Postman">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+  </a>
+  <a href="https://skillicons.dev" title="VSCode">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
+  </a>
+  <a href="https://skillicons.dev" title="CodePen">
+    <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" />
+  </a>
+</p>
 
-### <div align="center">Databases</div>
-
-<div align="center">
-<a href="https://skillicons.dev" title="MongoDB">
-  [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-</a>
-<a href="https://skillicons.dev" title="SQL">
-  [![SQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-</a>
-</div>
-
-### <div align="center">Tools</div>
-
-<div align="center">
-<a href="https://skillicons.dev" title="Git">
-  [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-</a>
-<a href="https://skillicons.dev" title="GitHub">
-  [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-</a>
-<a href="https://skillicons.dev" title="Firebase">
-  [![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
-</a>
-<a href="https://skillicons.dev" title="Postman">
-  [![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-</a>
-<a href="https://skillicons.dev" title="VSCode">
-  [![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-</a>
-<a href="https://skillicons.dev" title="CodePen">
-  [![CodePen](https://skillicons.dev/icons?i=codepen)](https://skillicons.dev)
-</a>
-</div>
 
 
 ## 📫 How to Reach Me
