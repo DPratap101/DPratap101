@@ -19,29 +19,57 @@ A passionate full-stack web developer currently pursuing a journey in technology
 
 ### **Languages**
 
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+<a href="https://skillicons.dev" title="JavaScript">
+  [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+</a>
+<a href="https://skillicons.dev" title="Python">
+  [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+</a>
+<a href="https://skillicons.dev" title="HTML5">
+  [![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+</a>
+<a href="https://skillicons.dev" title="CSS">
+  [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+</a>
 
 ### **Frameworks**
 
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+<a href="https://skillicons.dev" title="React">
+  [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+</a>
+<a href="https://skillicons.dev" title="Node.js">
+  [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+</a>
 
 ### **Databases**
 
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![SQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+<a href="https://skillicons.dev" title="MongoDB">
+  [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+</a>
+<a href="https://skillicons.dev" title="SQL">
+  [![SQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+</a>
 
 ### **Tools**
 
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![CodePen](https://skillicons.dev/icons?i=codepen)](https://skillicons.dev)
+<a href="https://skillicons.dev" title="Git">
+  [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+</a>
+<a href="https://skillicons.dev" title="GitHub">
+  [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+</a>
+<a href="https://skillicons.dev" title="Firebase">
+  [![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+</a>
+<a href="https://skillicons.dev" title="Postman">
+  [![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+</a>
+<a href="https://skillicons.dev" title="VSCode">
+  [![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+</a>
+<a href="https://skillicons.dev" title="CodePen">
+  [![CodePen](https://skillicons.dev/icons?i=codepen)](https://skillicons.dev)
+</a>
 
 </div>
 
