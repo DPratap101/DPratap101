@@ -15,10 +15,9 @@ A passionate full-stack web developer currently pursuing a journey in technology
 
 ## 🔭 Expertise
 
+### <div align="center">Languages</div>
+
 <div align="center">
-
-### **Languages**
-
 <a href="https://skillicons.dev" title="JavaScript">
   [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 </a>
@@ -31,27 +30,33 @@ A passionate full-stack web developer currently pursuing a journey in technology
 <a href="https://skillicons.dev" title="CSS">
   [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 </a>
+</div>
 
-### **Frameworks**
+### <div align="center">Frameworks</div>
 
+<div align="center">
 <a href="https://skillicons.dev" title="React">
   [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 </a>
 <a href="https://skillicons.dev" title="Node.js">
   [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 </a>
+</div>
 
-### **Databases**
+### <div align="center">Databases</div>
 
+<div align="center">
 <a href="https://skillicons.dev" title="MongoDB">
   [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 </a>
 <a href="https://skillicons.dev" title="SQL">
   [![SQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 </a>
+</div>
 
-### **Tools**
+### <div align="center">Tools</div>
 
+<div align="center">
 <a href="https://skillicons.dev" title="Git">
   [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 </a>
@@ -70,9 +75,7 @@ A passionate full-stack web developer currently pursuing a journey in technology
 <a href="https://skillicons.dev" title="CodePen">
   [![CodePen](https://skillicons.dev/icons?i=codepen)](https://skillicons.dev)
 </a>
-
 </div>
-
 
 
 ## 📫 How to Reach Me
