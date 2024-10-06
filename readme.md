@@ -16,7 +16,7 @@ A passionate full-stack web developer currently pursuing a journey in technology
 ## 🔭 Expertise
 
 ### <p align="center">Languages</p>
-<p align="center" style="line-height: 0;">
+<p align="center">
   <a href="https://skillicons.dev" title="JavaScript">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   </a>
@@ -32,7 +32,7 @@ A passionate full-stack web developer currently pursuing a journey in technology
 </p>
 
 ### <p align="center">Frameworks</p>
-<p align="center" style="line-height: 0;">
+<p align="center">
   <a href="https://skillicons.dev" title="React">
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
   </a>
@@ -42,7 +42,7 @@ A passionate full-stack web developer currently pursuing a journey in technology
 </p>
 
 ### <p align="center">Databases</p>
-<p align="center" style="line-height: 0;">
+<p align="center">
   <a href="https://skillicons.dev" title="MongoDB">
     <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
   </a>
@@ -52,7 +52,7 @@ A passionate full-stack web developer currently pursuing a journey in technology
 </p>
 
 ### <p align="center">Tools</p>
-<p align="center" style="line-height: 0;">
+<p align="center">
   <a href="https://skillicons.dev" title="Git">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   </a>
@@ -72,7 +72,6 @@ A passionate full-stack web developer currently pursuing a journey in technology
     <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" />
   </a>
 </p>
-
 
 
 
