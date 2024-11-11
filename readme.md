@@ -39,6 +39,9 @@ A passionate full-stack web developer currently pursuing a journey in technology
   <a href="https://skillicons.dev" title="Node.js">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
   </a>
+<a href="https://skillicons.dev" title="Express.js">
+    <img src="https://skillicons.dev/icons?i=expressjs" alt="express.js" />
+  </a>
 </p>
 
 ### <p align="center">Databases</p>
